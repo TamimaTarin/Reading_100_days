@@ -17,3 +17,4 @@ Learning
 | 12 | July 29, 2024 | <ul><li>[Power of Markup Language for Test Cases design](https://medium.com/sqa-mate/power-of-markup-language-for-test-cases-design-c7e6ae0c8b11)</li></ul> |
 | 13 | July 30, 2024 | <ul><li>[The Future of Software Testing](https://www.dowen.me.uk/the-future-of-software-testing/)</li><li>[How to test anything in 5 steps](https://www.dowen.me.uk/how-to-test-anything-in-5-steps/)</li><li>[Automation - Just do it!](https://www.dowen.me.uk/Automation-Just-do-it!/)</li></ul> |
 | 14 | November 27, 2024| <ul><li>[Playwright](https://playwright.dev/docs/auth) |
+| 15 | November 28, 2024| <ul><li>[Playwright VS Selenium](https://www.browserstack.com/guide/playwright-vs-selenium) |
